@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #7b68ee;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #00008b;
+  background-color: #4b0082;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
